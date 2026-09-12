@@ -83,7 +83,7 @@ Overall, I gained practical experience in building real-world Salesforce solutio
 It focused on implementing Salesforce automation, Apex, LWC, data management, reports, and dashboards to support real-world library operations.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/ARAVALA-VENKATESH-g2-salesforce/blob/d034bc8aa8fd1d1ef998815e7ccd982092b99c49/LIBRARY_MANAGEMENT_SYSTEM_PROJECT_SUBMISSION_DETAILS%20.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="Library_Management_System Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
