@@ -140,8 +140,8 @@ During my internship period, I participated in multiple community-oriented activ
 
 <div align="center">
 <img src="https://github.com/sure-trust/ARAVALA-VENKATESH-g2-salesforce/blob/638bb014b3ef931faa7c2037eea22ffbd1d92be2/Final%20capstone%20project/Plantation.jpeg" alt="Community Service Photo 1" width="30%">
-<img src="https://lnkd.in/p/dNXGg_Cw" alt="Community Service Photo 2" width="30%">
-<img src="https://lnkd.in/p/dNXGg_Cw" alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/Venky-Aravala/ARAVALA-VENKATESH-G2-Salesforce/blob/7e4fb2cfa9fb4f48b3be73fe1acd7f8814deac92/Senior%20Citizens.jpg" alt="Community Service Photo 2" width="30%">
+
 </div>
 
 ---
